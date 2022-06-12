@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # bugfix - 002
+# bugfix - 003
 
 # C extensions
 *.so

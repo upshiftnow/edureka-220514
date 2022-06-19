@@ -1,22 +1,17 @@
 This file is committed from Github desktop
 this change is committed directly on remote repository
 add new line
-Goldfoil_khalid
+Omololu_Lolee009
 
 
 
-Kuswaha Ranjith 
 
-upshiftnow_ravi
 
 
-Kunal Jaiswal
-main
 
 
 
 
-Goldfoil_khalid
 
 
 
@@ -55,29 +50,3 @@ Goldfoil_khalid
 
 
 
-
-
-
-
-
-
-
-
-
-Mohd Khalid
-
-techsible
-
-
-deepakkumar branch is now committed
-
-
-Vignesh
-
-Satendra added this
-Amit UpShiftNow
-tushar
-Kunlexzybitty
-
-
-main
